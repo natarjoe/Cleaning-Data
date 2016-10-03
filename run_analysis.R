@@ -52,8 +52,10 @@ names(finalTable) <- gsub("^t", "Time", names(finalTable))
 names(finalTable) <- gsub("^f", "Frequency", names(finalTable))
 names(finalTable) <- gsub("-mean", "Mean", names(finalTable))
 names(finalTable) <- gsub("-std", "STD", names(finalTable))
-
-
+names(finalTable) <- gsub("Acc", "Accelerometer", names(finalTable))
+names(finalTable) <- gsub("Gyro", "Gyroscope", names(finalTable))
+names(finalTable) <- gsub("Mag", "Magnitude", names(finalTable))
+names(finalTable) <- gsub("BodyBody", "Body", names(finalTable))
 
 CleanFinalData <- finalTable %>%
   group_by(Subject, Activity) %>%
