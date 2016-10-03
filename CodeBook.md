@@ -50,3 +50,86 @@ finalTable ( select subject and activity columnmean and std columns ,  from Comb
 ## Clean table to be written to file:
 CleanFinalData
 
+
+
+## The variables in this dataset are as follows:
+
+Identifiers:
+subject	
+activity	
+
+Measurements:
+timeBodyAccelerometermeanX	
+timeBodyAccelerometermeanY	
+timeBodyAccelerometermeanZ	
+timeBodyAccelerometerstdX	
+timeBodyAccelerometerstdY	
+timeBodyAccelerometerstdZ	
+timeGravityAccelerometermeanX	
+timeGravityAccelerometermeanY	
+timeGravityAccelerometermeanZ	
+timeGravityAccelerometerstdX	
+timeGravityAccelerometerstdY	
+timeGravityAccelerometerstdZ	
+timeBodyAccelerometerJerkmeanX	
+timeBodyAccelerometerJerkmeanY	
+timeBodyAccelerometerJerkmeanZ	
+timeBodyAccelerometerJerkstdX	
+timeBodyAccelerometerJerkstdY	
+timeBodyAccelerometerJerkstdZ	
+timeBodyGyroscopemeanX	
+timeBodyGyroscopemeanY	
+timeBodyGyroscopemeanZ	
+timeBodyGyroscopestdX	
+timeBodyGyroscopestdY	
+timeBodyGyroscopestdZ	
+timeBodyGyroscopeJerkmeanX	
+timeBodyGyroscopeJerkmeanY	
+timeBodyGyroscopeJerkmeanZ	
+timeBodyGyroscopeJerkstdX	
+timeBodyGyroscopeJerkstdY	
+timeBodyGyroscopeJerkstdZ	
+timeBodyAccelerometerMagnitudemean	
+timeBodyAccelerometerMagnitudestd	
+timeGravityAccelerometerMagnitudemean	
+timeGravityAccelerometerMagnitudestd	
+timeBodyAccelerometerJerkMagnitudemean	
+timeBodyAccelerometerJerkMagnitudestd	
+timeBodyGyroscopeMagnitudemean	
+timeBodyGyroscopeMagnitudestd	
+timeBodyGyroscopeJerkMagnitudemean	
+timeBodyGyroscopeJerkMagnitudestd	
+frequencyBodyAccelerometermeanX	
+frequencyBodyAccelerometermeanY	
+frequencyBodyAccelerometermeanZ	
+frequencyBodyAccelerometerstdX	
+frequencyBodyAccelerometerstdY	
+frequencyBodyAccelerometerstdZ	
+frequencyBodyAccelerometerJerkmeanX	
+frequencyBodyAccelerometerJerkmeanY	
+frequencyBodyAccelerometerJerkmeanZ	
+frequencyBodyAccelerometerJerkstdX	
+frequencyBodyAccelerometerJerkstdY	
+frequencyBodyAccelerometerJerkstdZ	
+frequencyBodyGyroscopemeanX	
+frequencyBodyGyroscopemeanY	
+frequencyBodyGyroscopemeanZ	
+frequencyBodyGyroscopestdX	
+frequencyBodyGyroscopestdY	
+frequencyBodyGyroscopestdZ	
+frequencyBodyAccelerometerMagnitudemean	
+frequencyBodyAccelerometerMagnitudestd	
+frequencyBodyAccelerometerJerkMagnitudemean	
+frequencyBodyAccelerometerJerkMagnitudestd	
+frequencyBodyGyroscopeMagnitudemean	
+frequencyBodyGyroscopeMagnitudestd	
+frequencyBodyGyroscopeJerkMagnitudemean
+frequencyBodyGyroscopeJerkMagnitudestd	
+						
+Activity Labels:
+1 Walking
+2 Walking upstairs
+3 Walking downstairs
+4 Sitting
+5 Standing
+6 Laying
