@@ -1,4 +1,4 @@
-library(dplyr) # rerquire for table manipulation
+library(dplyr) # require for table manipulation
 
 #-------------------------------------------------------------------------------
 # Download the zip file , unzip and create a table from training and the test text files
