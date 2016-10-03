@@ -2,8 +2,10 @@
 
 ## Source
 
-source <-  Human Activity Recognition Using Smartphones Data Set. 
+source <-  Human Activity Recognition Using Smartphones Data Set.
+
 Full description <- http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+
 project: Data <- https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 ## Steps
